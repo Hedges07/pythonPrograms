@@ -1,4 +1,4 @@
-#Megan Gervais Assignment 3 Question 3
+#Tyler Johnston Assignment 3 Question 3
 
 #itilize variabes given
 caloriesFromFat = 9
