@@ -1,6 +1,3 @@
-#Megan Gervais 
-#Lab 8 
-
 def main():
     n = int(input('What is the size of the table :')) 
 
