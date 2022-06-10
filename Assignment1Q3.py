@@ -1,4 +1,4 @@
-#Megan Gervais
+#Tyler Johnston
 
 a = int(input("Enter your age: "))
 r = int(input("Enter your resting heart rate: "))
