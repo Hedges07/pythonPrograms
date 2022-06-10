@@ -1,4 +1,4 @@
-#Megan Gervais
+#Tyler Johnston
 
 A = float(input("Enter amount of loan: "))
 r = float(input("Enter interest rate: "))
