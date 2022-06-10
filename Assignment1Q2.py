@@ -1,4 +1,4 @@
-#Megan Gervais 
+#Tyler Johnston
 loan = int(input("Enter future value: "))
 interest = float(input("Enter  interest rate (as %): "))
 years = int(input("Enter  nubmber of years: "))
