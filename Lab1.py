@@ -1,3 +1,7 @@
+#Tyler Hedges-Johnston
+#25402346   
+#Programming for beginners Lab 1
+
 pi = 3.142
 radius = int(input("Enter the radius of the circle: "))
 area = pi*radius*radius
