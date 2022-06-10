@@ -1,4 +1,3 @@
-
 mealPrice = float(input("Enter the amount of the meal: "))
 tip = round((mealPrice * .15), 2)
 tax = round((mealPrice * .13) ,2) 
