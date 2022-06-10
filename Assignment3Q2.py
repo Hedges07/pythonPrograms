@@ -1,5 +1,3 @@
-#Tyler Johnston Assignment 3 Question 2
-
 #itilize variabes given
 ASSESS_PERCENT = 0.6
 PROPERTY_TAX_PERCENT = 0.0072
