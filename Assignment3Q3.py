@@ -1,4 +1,4 @@
-#Tyler Johnston Assignment 3 Question 3
+#Tyler Johnston
 
 #itilize variabes given
 caloriesFromFat = 9

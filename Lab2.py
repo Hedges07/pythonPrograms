@@ -1,6 +1,4 @@
-#Tyler Hedges-Johnston
-#25402346   
-#Programming for beginners Lab 3
+#Tyler Johnston
 
 #Pseduo Code
 #Start
@@ -12,9 +10,6 @@
 # output "a minus b = minusAB"
 # output "a times a = sqrA"
 #End
-
-
-
 
 a = 249 
 b = 569 

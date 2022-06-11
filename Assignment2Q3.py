@@ -1,3 +1,5 @@
+#Tyler Johnston
+
 list1 = ['c','o',['m',['p','u',['t','e'],'o'],'g'],'r','a','m']
 list2 = ['r','p','r']
 i = 0

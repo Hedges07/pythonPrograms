@@ -1,3 +1,5 @@
+#Tyler Johnston
+
 timeLimit = 20 
 lowRate = 10/100
 highRate = 13/100
@@ -15,5 +17,3 @@ else:
 
 
 print(f"The cost of calling from {custAreaCode}-{custPhoneNum} to {calledAreaCode}-{calledPhoneNum} for {inputMinutes} minutes is ${price}")
-
-

@@ -1,3 +1,5 @@
+#Tyler Johnston
+
 def main():
     n = int(input('What is the size of the table :')) 
 

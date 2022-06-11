@@ -1,3 +1,5 @@
+#Tyler Johnston
+
 fixedCosts = 5000
 pricePerUnit = 8
 costPerUnit = 6

@@ -1,3 +1,5 @@
+#Tyler Johnston
+
 #user input 
 num = int(input("enter a positive integer between 1 - 20 , "))
 

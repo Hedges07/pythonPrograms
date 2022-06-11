@@ -1,4 +1,4 @@
-#Tyler Johnston Assignment 3 Question 2
+#Tyler Johnston 
 
 #itilize variabes given
 ASSESS_PERCENT = 0.6

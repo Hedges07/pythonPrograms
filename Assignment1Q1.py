@@ -1,4 +1,5 @@
 #Tyler Johnston
+
 A = float(input("Enter amount of loan: "))
 r = float(input("Enter interest rate: "))
 n = float(input("Enter nubmber of years: "))

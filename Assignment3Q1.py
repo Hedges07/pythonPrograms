@@ -1,4 +1,4 @@
-#Tyler Johnston Assignment 3 Question 1
+#Tyler Johnston
 
 #gets input from the user 
 a = input(" enter numbers, hit enter to end:")
