@@ -1,3 +1,7 @@
+#Tyler Hedges-Johnston
+#25402346   
+#Programming for beginners Lab 7
+
 task=input("Enter a task for your to-do list. Press <enter> when done: ")
 lis=[]
 while(task!=""):
