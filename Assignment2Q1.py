@@ -1,5 +1,3 @@
-#Tyler Johnston
-
 timeLimit = 20 
 lowRate = 10/100
 highRate = 13/100
@@ -13,7 +11,5 @@ if (custAreaCode == (calledAreaCode & (inputMinutes > timeLimit))):
     price = (inputMinutes * lowRate)
 else:
      price = (inputMinutes * highRate)
-
-
 
 print(f"The cost of calling from {custAreaCode}-{custPhoneNum} to {calledAreaCode}-{calledPhoneNum} for {inputMinutes} minutes is ${price}")

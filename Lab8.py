@@ -1,4 +1,6 @@
-#Tyler Johnston
+#Tyler Hedges-Johnston
+#25402346   
+#Programming for beginners Lab 9
 
 def main():
     n = int(input('What is the size of the table :')) 

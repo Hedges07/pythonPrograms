@@ -1,4 +1,6 @@
-#Tyler Johnston
+#Tyler Hedges-Johnston
+#25402346   
+#Programming for beginners Lab 5
 
 values = input("Enter some numbers: ")
 list = values.split(",")

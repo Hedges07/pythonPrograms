@@ -1,5 +1,3 @@
-#Tyler Johnston
-
 #itilize variabes given
 caloriesFromFat = 9
 CaloriesFromCarbs = 4
@@ -38,15 +36,3 @@ def display(gramsFat, gramsCarbs, caloriesFat, caloriesCarbs):
     print(f'Result Calories: {caloriesCarbs}')
 
 main()
-
-
-
-
-
-
-
-
-
-
-
-
