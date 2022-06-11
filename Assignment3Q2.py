@@ -1,3 +1,5 @@
+#Tyler Johnston
+
 #itilize variabes given
 ASSESS_PERCENT = 0.6
 PROPERTY_TAX_PERCENT = 0.0072

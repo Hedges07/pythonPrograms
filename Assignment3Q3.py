@@ -1,3 +1,5 @@
+#Tyler Johnston
+
 #itilize variabes given
 caloriesFromFat = 9
 CaloriesFromCarbs = 4

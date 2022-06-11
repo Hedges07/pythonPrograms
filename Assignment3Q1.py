@@ -1,3 +1,5 @@
+#Tyler Johnston
+
 #gets input from the user 
 a = input(" enter numbers, hit enter to end:")
 

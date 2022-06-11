@@ -1,3 +1,5 @@
+#Tyler Johnston
+
 timeLimit = 20 
 lowRate = 10/100
 highRate = 13/100
