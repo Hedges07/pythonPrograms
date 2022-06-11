@@ -1,3 +1,7 @@
+#Tyler Hedges-Johnston
+#25402346   
+#Programming for beginners Lab 6
+
 ***
 Q1) 
 11 5 3
